@@ -3,9 +3,9 @@
 ## Windows
 
 * Pobierz PHP
-[32bit](http://windows.php.net/downloads/releases/php-7.1.10-Win32-VC14-x86.zip)
+[32bit](http://windows.php.net/downloads/releases/php-7.1.11-Win32-VC14-x86.zip)
 lub
-[64bit](http://windows.php.net/downloads/releases/php-7.1.10-nts-Win32-VC14-x64.zip)
+[64bit](http://windows.php.net/downloads/releases/php-7.1.11-nts-Win32-VC14-x64.zip)
 * Wypakuj w wybrane przez ciebie miejsce. Zalecamy ```C:\```.
 * Dodaj ścieżkę z wypakowaną zawartością do zmiennej środowiskowej ```PATH```
 * Zainstaluje [Composer](https://getcomposer.org/Composer-Setup.exe)
